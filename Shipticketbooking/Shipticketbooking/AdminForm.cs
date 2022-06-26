@@ -41,7 +41,7 @@ namespace Shipticketbooking
 
         }
 
-        //Alkalmazás bezárása
+        //Alkalmazás bezárása, aaa
         private void AdminForm_FormClosed(object sender, FormClosedEventArgs e)
         {
             System.Environment.Exit(0);
