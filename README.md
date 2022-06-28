@@ -1,5 +1,5 @@
 # Shipticketbooking
-This is a C# project with windows form.
+This is a C# project with windows form and sqlite.
 In this application can be booked ship tickets.
 The app has two roles. User and admin.
 If you use as a user give the username and password then choose the user role.
